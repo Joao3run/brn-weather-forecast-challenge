@@ -14,7 +14,7 @@ Você está livre para usar React, Vue ou Angular 8+ no desenvolvimento da solu�
 
 ## Case
 
-Vamos dar uma olhada na previsão do tempo? A meta é criarmos uma página simples, que consuma a API OpenWeatherMap de previsão do tempo (https://openweathermap.org/current). O layout final deverá fica por sua conta. Mas temos um exemplo para guiá-lo.
+Vamos dar uma olhada na previsão do tempo? A meta é criarmos uma página simples, que consuma a API OpenWeatherMap de previsão do tempo (https://openweathermap.org/current). O layout final deverá fica por sua conta, mas temos um exemplo para guiá-lo.
 
 ![View mock](assets/view.png)
 
